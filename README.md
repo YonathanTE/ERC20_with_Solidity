@@ -8,6 +8,8 @@ In order to purchase the token, the funds would need to be sent to the crowdsale
 
 ### To add the PUP token onto MyCrypto
 In order to add the token onto the MyCrypto application, the token_address, from the screenshot above, needs to be entered into the wallet, like the screenshot provided below. After doing this, the rest of the information for the token should automatically appear.
+
+
 ![Screenshot (170)](https://user-images.githubusercontent.com/68878624/133945523-ffc60e10-de53-4833-87cd-b41110816e0e.png)
 
 ### Tested transaction to fund the PUP toke sale address
