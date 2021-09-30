@@ -1,6 +1,4 @@
-# 21-Advanced_Solidity_HW
-
-## Explanations
+# Explanations
 
 ### Process to purchase PUP token
 In order to purchase the token, the funds would need to be sent to the crowdsale contract, allowing the funds to be deposited in exchange for the token. The screenshot below depicts two different contracts that be utilized to add the token into the contract, token_address, and purchase the token, token_sale_address.
